@@ -1,5 +1,4 @@
-# Public-Document-Holder
-Public Document Holder
+# LSC
 LSC's Leadership Competencies rubric is our shared description of the mindsets and behaviors that are critical for success at LSC. Staff members and managers use the rubric as they engage in meaningful and productive conversations about development and progression in the organization, whether in formal settings such as the staff development cycle or in informal settings like check-ins or coaching conversations. 
 The rubric groups the competencies in five clusters: 
 Foundational Competencies 
